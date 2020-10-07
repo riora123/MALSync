@@ -474,6 +474,13 @@
     <td>:heavy_check_mark:</td>
     <td>:x:</td>
     <td>:x:</td>
+   </tr><tr>
+    <td><a href="https://vidstreaming.us"><img src="https://www.google.com/s2/favicons?domain=https://vidstreaming.us"> vidstreaming</a></td>
+    <td>English</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td>
   </tr>
     </tbody>
   </table>
